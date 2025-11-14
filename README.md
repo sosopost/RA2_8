@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Inventário - Haskell
+# Inventário - Haskell
 
 ## RA2 - Funcional
 - **Instituição de Ensino**: Pontifícia Universidade Católica do Paraná (PUCPR)
