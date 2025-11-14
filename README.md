@@ -18,13 +18,13 @@
 | Comando | Sintaxe | Descrição |
 |---------|---------|-----------|
 | `add` | `add <id> <nome> <qtd> <categoria>` | Adiciona novo item |
-| `remove` | `remove <id> <qtd>` | Remove quantidade (remove item se estoque zerar) |
-| `update` | `update <id> <nova_qtd>` | Atualiza quantidade (remove item se estoque zerar) |
+| `remove` | `remove <id> <qtd>` | Remove quantidade |
+| `update` | `update <id> <nova_qtd>` | Atualiza quantidad |
 | `listar` | `listar` | Lista todos os itens |
 | `report` | `report` | Gera relatórios de erros e item mais movimentado |
-| `historico` | `historico <id>` | Histórico completo do item (Add, Remove, Update) |
-| `ajuda` | `ajuda` | Ajuda dos comandos |
-| `sair` | `sair` | Encerra sistema |
+| `historico` | `historico <id>` | Histórico completo do item |
+| `ajuda` | `ajuda` | Comandos |
+| `sair` | `sair` | Encerra o sistema |
 
 
 ### Teste
