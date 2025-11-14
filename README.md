@@ -12,11 +12,6 @@
 | Sophia Post Ploposki | [@sosopost](https://github.com/sosopost)     |
 
 
-## Link de Execução do Projeto
-
-**Ambiente de Execução Online**: [https://onlinegdb.com/_F-js8Kh-](https://onlinegdb.com/_F-js8Kh-)
-
-
 
 ### Comandos do Sistema
 
